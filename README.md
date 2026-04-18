@@ -50,5 +50,5 @@ superstore-sales-analysis/
 
 ## Author
 
-[Divyajyoti Tripathy]
+Divyajyoti Tripathy
 
